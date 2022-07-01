@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-Runs the the json-server on port ## 8080
+Runs the the json-server on the port ### `8080`
 
 ### `npm start`
 
